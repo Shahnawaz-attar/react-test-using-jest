@@ -1,0 +1,14 @@
+1. Button Component - renders the correct label and triggers the callback function when clicked
+2. Redux Actions and Reducers - tests for increment and decrement actions and the counter reducer
+3. Counter Component - correctly updates the count value when the buttons are clicked
+4. React Router Navigation - verifies the correct route when a link is clicked
+5. Form Validation - tests form validation logic for a login form
+6. Component Lifecycle - ensures correct data fetching in the useEffect hook
+7. Snapshot Testing - verifies the component's rendered output using Jest snapshots
+8. Testing React Router Navigation - tests navigation behavior using MemoryRouter
+9. Testing Redux Actions and Reducers with Mock Store - tests actions and reducers using a mock store
+10. Testing React Components with State Changes - tests state changes in a React component
+11. Testing React Components with Props and Event Handlers - tests a component that receives props and contains an event handler
+12. Testing React Components with Conditional Rendering - tests a component with conditional rendering
+13. Testing React Components with Async Await - tests a component with asynchronous behavior using async/await
+14. Testing React Components with Conditional Rendering (Updated) - tests a component with conditional rendering and state updates
